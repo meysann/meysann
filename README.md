@@ -3,7 +3,7 @@
 <h3>Aspiring DevOps Engineer | Automation & Cloud Enthusiast</h3>
 </div>
 
-👨‍💻 About Me
+
 I'm an aspiring DevOps Engineer from Tehran, on a journey to master the art of building efficient, scalable, and automated systems. My passion lies in automation, exploring new technologies, and understanding the core principles of Linux and monitoring that form the foundation of resilient infrastructure. I believe in the power of CI/CD to accelerate development and am currently deepening my skills in cloud-native technologies.
 
 🔭 I’m currently working on automating my personal project deployments with GitHub Actions.
