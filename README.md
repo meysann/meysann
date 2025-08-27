@@ -12,7 +12,7 @@ I'm an aspiring DevOps Engineer from Tehran, on a journey to master the art of b
 - 🔭 I’m currently working on automating my personal project deployments with GitHub Actions.
 - 🌱 I’m currently learning **Kubernetes** and **Terraform** in depth.
 - 💬 Ask me about **Linux, Bash scripting, and Docker**.
-- 📫 How to reach me: [Your LinkedIn Profile URL] or [your.email@example.com]
+- 📫 How to reach me: [meysam.mp1993@gmail.com]
 - ⚡ Fun fact: [A fun, non-technical fact about you]
 
 ---
