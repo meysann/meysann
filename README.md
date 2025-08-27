@@ -13,7 +13,6 @@ I'm an aspiring DevOps Engineer from Tehran, on a journey to master the art of b
 - 🌱 I’m currently learning **Kubernetes** and **Terraform** in depth.
 - 💬 Ask me about **Linux, Bash scripting, and Docker**.
 - 📫 How to reach me: [meysam.mp1993@gmail.com]
-- ⚡ Fun fact: [A fun, non-technical fact about you]
 
 ---
 
@@ -36,9 +35,3 @@ Here are some of the tools and technologies I'm working with:
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
